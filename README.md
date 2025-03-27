@@ -22,3 +22,6 @@
   <!-- 리액트 --->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </div>
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=4)
