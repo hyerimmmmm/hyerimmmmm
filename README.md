@@ -3,6 +3,9 @@
 <div align = "center">
   <h2>⭐️ About Me</h2>
   <br>
+<p>
+  디자인부터 개발까지, 만능개발자를 꿈꾸는 김혜림입니다!
+</p>
 
 </div>
 
@@ -44,6 +47,10 @@
   <h2>🖥 Project</h2>
   <br>
 
+| 프로젝트 이름 | 개발 기간 | 사용 기술 | 주요 기능 | GitHub 링크 | 배포 여부 |
+|--------------|----------|----------|----------|------------|----------|
+| &nbsp;숫자야구게임&nbsp; | &nbsp;2025.03 ~ 2025.04&nbsp; | &nbsp;JAVA, oracle, Swing&nbsp; | &nbsp;숫자 선택&nbsp; | &nbsp;[GitHub]([https://github.com/example1](https://github.com/hyerimmmmm/javaMiniProject))&nbsp; | &nbsp;-&nbsp; |
+
 </div>
 
 
@@ -51,6 +58,14 @@
 
 <div align = "center">
   <h2>⚙️ Git State</h2>
+  <br>
+
+</div>
+
+<br><br><br>
+
+<div align = "center">
+  <h2>✉️ Contact</h2>
   <br>
 
 </div>
