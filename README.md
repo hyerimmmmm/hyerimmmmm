@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=4&height=300&section=header&text=Welcom%20to%20My%20Github🤩&fontSize=80&fontColor=ffffff)
 
----
 <!-- 기술 스택 img --->
 <div align = "center">
+  <h2>🛠️ Tech Stack</h2>
+  <br>
+  
   <h3>프론트엔드</h3>
   <!-- html --->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -26,5 +28,22 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!-- 깃허브 --->
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+</div>
+
+<br><br><br>
+
+<div align = "center">
+  <h2>🖥 Project</h2>
+  <br>
+
+</div>
+
+
+<br><br><br>
+
+<div align = "center">
+  <h2>⚙️ Git State</h2>
+  <br>
+
 </div>
 
