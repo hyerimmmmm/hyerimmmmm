@@ -60,7 +60,7 @@
   <h2>⚙️ Git State</h2>
   <br>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyerimmmmm&layout=compact)
 
 </div>
 
