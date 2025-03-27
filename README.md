@@ -56,15 +56,6 @@
 
 <br><br><br>
 
-<div align = "center">
-  <h2>⚙️ Git State</h2>
-  <br>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyerimmmmm&layout=compact)
-
-</div>
-
-<br><br><br>
 
 <div align = "center">
   <h2>✉️ Contact</h2>
