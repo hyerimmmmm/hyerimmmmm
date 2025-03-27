@@ -49,7 +49,7 @@
 
 | 프로젝트 이름 | 개발 기간 | 사용 기술 | 주요 기능 | GitHub 링크 | 배포 여부 |
 |--------------|----------|----------|----------|------------|----------|
-| 숫자야구게임 | 2025.04 ~ 2025.04 | JAVA, oracle, Swing | 숫자 선택 | [GitHub]([https://github.com/example1](https://github.com/hyerimmmmm/javaMiniProject)) | - |
+| 숫자야구게임 | 2025.04 ~ 2025.04 | JAVA, oracle, Swing | 숫자 선택 | [GitHub](https://github.com/hyerimmmmm/javaMiniProject) | - |
 
 </div>
 
