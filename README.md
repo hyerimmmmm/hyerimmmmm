@@ -47,9 +47,9 @@
   <h2>🖥 Project</h2>
   <br>
 
-| 프로젝트 이름 | 개발 기간 | 사용 기술 | 주요 기능 | GitHub 링크 | 배포 여부 |
-|--------------|----------|----------|----------|------------|----------|
-| 숫자야구게임 | 2025.04 ~ 2025.04 | JAVA, oracle, Swing | 숫자 비교 및 판정 / 게임 기록 저장 및 조회 / 입력 및 결과 UI | [GitHub](https://github.com/hyerimmmmm/javaMiniProject) | - |
+| 프로젝트명 | 개발 기간 | 사용 기술 | 주요 기능 | GitHub |
+|--------------|----------|----------|----------|------------|
+| 숫자야구게임 | 25.04 ~ 25.04 | JAVA, oracle, Swing | 숫자 비교 및 판정 / 게임 기록 저장 및 조회 / 입력 및 결과 UI | [GitHub](https://github.com/hyerimmmmm/javaMiniProject) |
 
 </div>
 
