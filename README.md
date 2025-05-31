@@ -22,7 +22,6 @@
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
   <h3>백엔드</h3>
   
@@ -31,7 +30,6 @@
 
   <h3>기타 개발 도구</h3>
   
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
 </div>
@@ -44,8 +42,7 @@
 <h3>개인 프로젝트</h3></h3>
   
 | 프로젝트명 | 개발 기간 | 사용 기술 | 주요 기능 | GitHub |
-|--------------|----------|----------|----------|------------|
-| 숫자야구게임 | 25.04 ~ 25.04 | JAVA, oracle, Swing | 숫자 비교 및 판정 / 게임 기록 저장 및 조회 / 입력 및 결과 UI | [GitHub](https://github.com/hyerimmmmm/javaMiniProject) |
+|--------------|----------|----------|----------|------------||
 
 <br>
 
@@ -53,7 +50,6 @@
 
 | 프로젝트명 | 개발 기간 | 참여 분야 | 기여 기능 | GitHub |
 |--------------|----------|----------|----------|------------|
-| 숫자야구게임 | 25.04 ~ 25.04 | 프론트 엔드 | 숫자 비교 및 판정 / 게임 기록 저장 및 조회 / 입력 및 결과 UI | [GitHub](https://github.com/hyerimmmmm/javaMiniProject) |
 
 </div>
 
